@@ -1,8 +1,6 @@
 # BlocklyLV2D
 
-Is the my version of **Blockly** in style ***LOVE2D***                          
-This **Blockly** uses MIT License.                                           
-This **BlocklyLV2D** are based with [***LOVE2D***](https://love2d.org)
+Is the my version of **Blockly** in language [***LOVE2D***](https://love2d.org).
 
 ## BlocklyLV2D Wiki
 
