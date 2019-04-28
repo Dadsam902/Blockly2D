@@ -27,7 +27,7 @@ Also the best use of other blocks.
 - [ ] love.touch
 - [ ] love.video
 - [ ] love.window
-:heart:
+
 
 ------------------------------------------------------------------------------
 
