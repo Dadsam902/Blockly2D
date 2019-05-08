@@ -1,15 +1,13 @@
-# BlocklyLV2D
-WARNING! Blockly2D Not is a game. is a tool.
-Is the my version of **Blockly** in language [***LOVE2D***](https://love2d.org).
-## BlocklyLV2D Wiki
+# DEPRECATED
+The Blockly LOVE2D are Deprecated because the Blockly have certains limits and because from love.audio.
+If you want Blockly LOVE2D. will need one engine for **Clickteam Fusion 2.5** of "**Blockly**" or "**Blueprint**"
+Blueprint = **Unreal Engine: Script Editor**
 
-I created the wiki to make the best understanding for BlocklyLV2D
-Also the best use of other blocks.
 
-# BlocklyLV2D Progress...
+# LOVE2D Blockly Progress...
 ---
 ## Modules
-- [x] love.audio
+- [ ] love.audio
 - [ ] love.data
 - [ ] love.filesystem
 - [ ] love.font
